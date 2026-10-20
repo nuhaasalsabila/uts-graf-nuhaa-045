@@ -1,0 +1,10 @@
+venv310/
+myenv/
+__pycache__/
+.ipynb_checkpoints/
+data/events.csv
+data/events_filtered.csv
+data/item_properties_part1.csv
+data/item_properties_part2.csv
+data/category_tree.csv
+ecommerce-dataset.zip
